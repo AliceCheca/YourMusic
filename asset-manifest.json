@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/AliceCheca/YourMusic/static/js/main.de8d9c42.chunk.js",
-    "main.js.map": "/AliceCheca/YourMusic/static/js/main.de8d9c42.chunk.js.map",
-    "runtime-main.js": "/AliceCheca/YourMusic/static/js/runtime-main.8200aca5.js",
-    "runtime-main.js.map": "/AliceCheca/YourMusic/static/js/runtime-main.8200aca5.js.map",
-    "static/css/2.383c0125.chunk.css": "/AliceCheca/YourMusic/static/css/2.383c0125.chunk.css",
-    "static/js/2.a4f79fb2.chunk.js": "/AliceCheca/YourMusic/static/js/2.a4f79fb2.chunk.js",
-    "static/js/2.a4f79fb2.chunk.js.map": "/AliceCheca/YourMusic/static/js/2.a4f79fb2.chunk.js.map",
-    "index.html": "/AliceCheca/YourMusic/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/AliceCheca/YourMusic/static/css/2.383c0125.chunk.css.map",
-    "static/js/2.a4f79fb2.chunk.js.LICENSE.txt": "/AliceCheca/YourMusic/static/js/2.a4f79fb2.chunk.js.LICENSE.txt"
+    "main.js": "/YourMusic/static/js/main.de8d9c42.chunk.js",
+    "main.js.map": "/YourMusic/static/js/main.de8d9c42.chunk.js.map",
+    "runtime-main.js": "/YourMusic/static/js/runtime-main.2d12f2e0.js",
+    "runtime-main.js.map": "/YourMusic/static/js/runtime-main.2d12f2e0.js.map",
+    "static/css/2.383c0125.chunk.css": "/YourMusic/static/css/2.383c0125.chunk.css",
+    "static/js/2.a4f79fb2.chunk.js": "/YourMusic/static/js/2.a4f79fb2.chunk.js",
+    "static/js/2.a4f79fb2.chunk.js.map": "/YourMusic/static/js/2.a4f79fb2.chunk.js.map",
+    "index.html": "/YourMusic/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/YourMusic/static/css/2.383c0125.chunk.css.map",
+    "static/js/2.a4f79fb2.chunk.js.LICENSE.txt": "/YourMusic/static/js/2.a4f79fb2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8200aca5.js",
+    "static/js/runtime-main.2d12f2e0.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.a4f79fb2.chunk.js",
     "static/js/main.de8d9c42.chunk.js"
