@@ -53,7 +53,7 @@ const Musicas = () => {
         else if (banda.length < 2) novosErros.banda = 'A banda deve conter, no mínimo, duas letras.'
         else if (album.length < 2) novosErros.album = 'O álbum deve conter, no mínimo, duas letras.'
         else if (genero.length < 2) novosErros.genero = 'O gênero deve conter, no mínimo, duas letras.'
-        else if (lancamento.length < 8) novosErros.lancamento = 'O lançamento deve conter, no mínimo, oito digitos.'
+        else if (lancamento.length < 8) novosErros.lancamento = 'Informe uma data válida.'
         return novosErros
     }
 
@@ -177,7 +177,6 @@ const Musicas = () => {
                             <Form.Control
                                 name="lancamento"
                                 type="date"
-                                placeholder="Ex: 20/10/2014"
                                 value={lancamento}
                                 onChange={alteraDadosMusica}
                                 isInvalid={!!erros.lancamento}
@@ -273,7 +272,7 @@ const Musicas = () => {
                     <Modal.Title>Confirmação da Exclusão</Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
-                    Confirma a exclusão da categoria selecionada?
+                    Confirma a exclusão da música?
                 </Modal.Body>
                 <Modal.Footer>
                     <Button variant="danger" onClick={() => setConfirmaExclusao(!confirmaExclusao)}>
